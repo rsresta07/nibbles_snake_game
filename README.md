@@ -3,4 +3,4 @@ Nibbles is a small Java-based snake game project.
 
 ## License
 
-The Laravel framework is open-source software licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
